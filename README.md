@@ -23,7 +23,7 @@ I care as much about how code is structured as whether it runs. Architecture dec
 
 🏆 **First prize — Droidcon Italy Hackathon**  
 🎤 **Public speaker** at mobile conferences and GDG events (Italy, Poland, Switzerland, Tunisia & France)  
-🎓 **Technical mentor** — taught 70+ Android developers at OpenClassrooms  
+🎓 **Technical mentor** — taught 8+ Android developers at OpenClassrooms  
 🧑‍🏫 **Organiser & trainer** — GDG Torino (2016–2017), Google Study Jams, Google I/O Extended  
 
 ---
